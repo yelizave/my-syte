@@ -1,0 +1,12 @@
+
+  h1 {/*<h1>*/ 
+    color:rgb(37, 158, 118);/**/}
+  p {/*<p>*/ 
+  color:aliceblue;/**/}
+li {/*<li>*/
+color:rgb(145, 216, 216);/**/}
+ul {list-style-position:outside;}
+div {border: solid  5px;
+color:rgb(224, 134, 25);
+border-radius: 20px 10px 10px 20px;}
+
